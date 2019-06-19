@@ -2,7 +2,7 @@
 
 The test driven Coffee Machine boiler plate
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=curlybracket-nl&repo=salesforce-tdd">
+<a href="https://githubsfdeploy.herokuapp.com?owner=curlybracket-nl&repo=salesforce-tdd&ref=master">
   <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
