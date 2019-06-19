@@ -1,4 +1,4 @@
-global interface ICoffeeMachine {
+public interface ICoffeeMachine {
 
     /**
      * Brews a coffee with the specified amount of water in the desired strength specified as integer
